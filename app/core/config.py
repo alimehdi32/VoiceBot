@@ -16,9 +16,11 @@ class Settings:
 
     LOG_FILE = "logs/app.log"
 
-    AUDIO_UPLOAD_DIR = "temp_audio"
+    STORAGE_DIR = "storage"
 
-    RESPONSE_AUDIO_DIR = "response_audio"
+    INPUT_AUDIO_DIR = "storage/input_audio"
+
+    OUTPUT_AUDIO_DIR = "storage/output_audio"
 
 
 settings = Settings()
