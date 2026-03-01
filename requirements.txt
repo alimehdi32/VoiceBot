@@ -12,3 +12,5 @@ gtts
 jiwer
 python-dotenv
 loguru
+datasets
+joblib
